@@ -1,0 +1,4 @@
+[submodule "OMI-Filetype-Library"]
+	path = OMI-Filetype-Library
+	url = https://github.com/Sowgro/OMI-Filetype-Library.git
+	branch = linux-port
